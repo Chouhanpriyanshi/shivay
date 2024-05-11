@@ -1,1 +1,5 @@
-helloooow
+helloooow 
+git diff ..use this to know what changes you have made
+after making any changes if use "git add ." then changes are made at staging area 
+git diff firstgit.txt...(it will run only when files are staged or at staging area..if not then use..)
+git diff --staged first.txt
